@@ -1,4 +1,4 @@
-# pygame_sudoCode
+# pygame_pseudoCode
 Pseudocode based on Making Games with Python & Pygame.
 
 이 저장소는 『Making Games with Python & Pygame』를 학습하며 직접 정리한 내용을 모아둔 저장소입니다.
